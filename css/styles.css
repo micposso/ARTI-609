@@ -31,7 +31,7 @@ p {
 }
 
 footer {
- /* add bg color */
- /* center the text */
- /* add padding top and bottom of 20px */
+    background-color: aquamarine;
+    text-align: center;
+    padding: 20px 10px;
 }
