@@ -21,6 +21,7 @@ p {
     padding-left: 10px;
     padding-right: 10px;
     background-color: bisque;
+    background-image: url("https://images.pexels.com/photos/1125265/pexels-photo-1125265.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
 }
 
 .main-container {
@@ -30,5 +31,7 @@ p {
 }
 
 footer {
-
+ /* add bg color */
+ /* center the text */
+ /* add padding top and bottom of 20px */
 }
